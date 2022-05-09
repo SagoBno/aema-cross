@@ -1,0 +1,15 @@
+{
+  "name": "aema-cross",
+  "version": "1.0.1",
+  "description": "Enums to be used in the AEMA project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SagoBno <santiagobnoh@hotmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "enum": "^3.0.4"
+  }
+}
