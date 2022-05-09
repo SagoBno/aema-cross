@@ -1,6 +1,6 @@
 {
   "name": "aema-cross",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Enums to be used in the AEMA project",
   "main": "index.js",
   "type": "module",
