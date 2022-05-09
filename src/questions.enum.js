@@ -43,11 +43,11 @@ const questions = new Enum({
     },
     AGITATION: {
         id: 11,
-        name: 'Agitacion',
+        name: 'Agitación',
     },
     LOSS_OF_INTEREST: {
         id: 12,
-        name: 'Perdida de interes',
+        name: 'Perdida de interés',
     },
     INDECISION: {
         id: 13,
@@ -55,15 +55,15 @@ const questions = new Enum({
     },
     DEVALUATION: {
         id: 14,
-        name: 'Desvalorizacion',
+        name: 'Desvalorización',
     },
     POWER_LOSS: {
         id: 15,
-        name: 'Perdida de energia',
+        name: 'Perdida de energía',
     },
     CHANGES_IN_SLEEP_HABITS: {
         id: 16,
-        name: 'Cambios en habitos de sueño',
+        name: 'Cambios en hábitos de sueño',
     },
     IRRITABILITY: {
         id: 17,
